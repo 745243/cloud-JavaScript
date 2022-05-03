@@ -1,1 +1,1857 @@
-[{"等着黑ip吧"},{"等着黑ip吧"}，{"等着黑ip吧"},{"等着黑ip吧"},{"等着黑ip吧"},{"等着黑ip吧"},{"等着黑ip吧"},{"等着黑ip吧"},{"等着黑ip吧"},{"等着黑ip吧"},{"等着黑ip吧"}]
+{
+  "llsid": 2001305220746289000,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 11101001,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [
+            {
+              "type": 1,
+              "url": [
+                "https://bydk-click.66y.com/click/ios?mediatype=2&channel=iosbkuaishou&channel_detail=iosbkuaishou00fsk0440&account_id=12436312&aid=1460196847&cid=22834662223&did=801910705&dname=%E4%B8%83%E6%97%A5%E4%BB%98%E8%B4%B9%E6%AC%A1%E6%95%B0%2Ddmp%E7%BB%BC%E5%90%88%E5%A4%A7%2D%EF%BC%88440%EF%BC%89%2D%5F%E5%A4%8D%E5%88%B6&idfa=__IDFA2__&idfa3=__IDFA3__&os=__OS__&ts=__TS__&ip=113.214.211.3&ua=__UA__&csite=6&model=__MODEL__&ac_creative=0&callback_url=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DalaU1Fj-VP9MRRcQf5sbXNyb1BX7QN20Eq3htcsqkeaMDKGNf6jXFeAM_O4EseF2rsFCmKXL0vFs--mkHT0rN56o-c5Hq1ZcT8aTAjoM1AdLkaHbD1xNaFmqZAcb6h-sxvqbsgh6XHuvEXCspmeWv1J65_WNzd4kuW99bVQHi2dLo6FtoTlDyfCZXjy2i9JPByny5OR0u2XN57RHXcYJVw"
+              ]
+            }
+          ],
+          "adConversionInfo": {
+            "h5Url": "",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://itunes.apple.com/cn/app/id1561105019",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22834662223,
+            "accountId": 12436312,
+            "adSourceType": 1,
+            "adDescription": "捕鱼游戏天花板！VIP免费送！让你不充钱也能玩到爽！",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 40,
+            "appIconUrl": "http://static.yximgs.com/udata/pkg/marketd6dce2d3184f4214b836d48005a632f9.jpg",
+            "appName": "捕鱼大咖",
+            "appPackageName": "",
+            "appScore": 0,
+            "adActionDescription": "立即安装",
+            "adMarkContent": "广告",
+            "campaignId": 801910705,
+            "unitId": 1460196847,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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",
+            "campaignName": "七日付费次数-dmp综合大-（440）-_复制",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "捕鱼大咖",
+            "enableCloseAd": true,
+            "adActionBarColor": "e5582d",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://txmov2.a.kwimgs.com/upic/2022/03/27/13/BMjAyMjAzMjcxMzE1MDVfMjcxMTUzNjcyNV83MDU4MDg5MjEyM18wXzM=_b_B810dd2e4c8041494d6fc4552adbc517e.mp4?tag=1-1651537280-unknown-0-iraarh8cng-bc5c7cf738e94363&clientCacheKey=3xryft6n9zdgx79_b.mp4&tt=b&di=27909bc0&bp=13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5190398642681554000,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2711536725,
+            "userName": "捕鱼大咖",
+            "accountId": 12436312,
+            "userGender": "U",
+            "portraitUrl": "https://p2.a.yximgs.com/uhead/AB/2022/01/25/14/BMjAyMjAxMjUxNDU2MzZfMjcxMTUzNjcyNV8zX2hkMjEyXzM2NQ==_s.jpg"
+          },
+          "liveStartTime": 0,
+          "reservationId": ""
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "f4147767f626056e",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 39660,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://v4.kwaicdn.com/ksc1/MrOjq4LGx6J6NNEvln3J6mz5n2j_ahCpyY_Sf2dtx0VFTfCFsogoq4HL9R5a2HxFpqx1F082j23Oy5hlsC1aR1GrHReFVHl27Tr9sxPG8A0TvXDi81QB15LyovGOrzlf1FHvr3hXDMHVMZh5idI5STuCCOqf75gxirzDaeMWA0mCbiemwOfINAuuulLGZPyW.mp4?pkey=AAUq964hre-F4JtaceSmK9vJ0fgnno4axJSEBFgPDHRNUSi9dcm89Md0SU6993qwGjH9_Cin0Lc0gZO9MB8gi0nG7soHDxhV9JgWKbzH2Ck4J2zuzMc90rE-vE-78egjMYE&tag=1-1651538469-unknown-0-bieegptpwb-f6c75a3062ea988e&type=hot&clientCacheKey=3xryft6n9zdgx79_swfth.mp4&di=71d6d303&bp=10002&tt=swfth&ss=vp",
+                "backupUrl": [
+                  "http://v1.kwaicdn.com/ksc1/MrOjq4LGx6J6NNEvln3J6mz5n2j_ahCpyY_Sf2dtx0VFTfCFsogoq4HL9R5a2HxFpqx1F082j23Oy5hlsC1aR1GrHReFVHl27Tr9sxPG8A0TvXDi81QB15LyovGOrzlf1FHvr3hXDMHVMZh5idI5STuCCOqf75gxirzDaeMWA0mCbiemwOfINAuuulLGZPyW.mp4?pkey=AAUN8MUbxyEMdVIfhCAdqUci6b0ZWHRW6GlJtmeXV4I-iE46TukPKB29VFv4iKDU09CAPtL9BqS5kxEv-ih1VkWyZCDuEzsefKENtzn80lz5Qg3ACo5LMMX6ugtsJAHY7LQ&tag=1-1651538469-unknown-1-k8bmghmzlc-917fcb666b6d62b3&type=hot&clientCacheKey=3xryft6n9zdgx79_swfth.mp4&di=71d6d303&bp=10002&tt=swfth&ss=vp"
+                ],
+                "maxBitrate": 3300,
+                "avgBitrate": 1897,
+                "width": 720,
+                "height": 1280,
+                "frameRate": 50,
+                "quality": 1.7,
+                "qualityType": "720p",
+                "qualityLabel": "高清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "f4147767f626056e/swfth",
+                "hdrType": 0,
+                "fileSize": 9408332,
+                "bitratePattern": [
+                  1881,
+                  1140,
+                  3326,
+                  716,
+                  822
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {},
+        "videoFeature": {
+          "blurProbability": 0.1485537588596344,
+          "blockyProbability": 0.40411606431007385,
+          "avgEntropy": 18.353393963405065,
+          "mosScore": 0.7295429110527039
+        }
+      },
+      "comments": [],
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "us_c": 0,
+      "slideCommentEntryDisabled": false,
+      "comment_count": 0,
+      "following": 0,
+      "verified": false,
+      "headurls": [
+        {
+          "cdn": "p2.a.yximgs.com",
+          "url": "http://p2.a.yximgs.com/uhead/AB/2022/01/25/14/BMjAyMjAxMjUxNDU2MzZfMjcxMTUzNjcyNV8zX2hkMjEyXzM2NQ==_s.jpg"
+        },
+        {
+          "cdn": "p1.a.yximgs.com",
+          "url": "http://p1.a.yximgs.com/uhead/AB/2022/01/25/14/BMjAyMjAxMjUxNDU2MzZfMjcxMTUzNjcyNV8zX2hkMjEyXzM2NQ==_s.jpg"
+        }
+      ],
+      "user_sex": "U",
+      "user_name": "捕鱼大咖",
+      "displayTime": null,
+      "location": {},
+      "timestamp": 1651538469790,
+      "time": "2022-05-03 08:41:09",
+      "isShareCountExp": false,
+      "forward_count": 0,
+      "share_count": 69,
+      "unlike_count": 0,
+      "caption": "捕鱼游戏天花板！VIP免费送！让你不充钱也能玩到爽！",
+      "view_count": 4840869,
+      "photo_status": 0,
+      "like_count": 0,
+      "photo_id": 5190398642681554000,
+      "ad": {
+        "creativeId": 22834662223,
+        "chargeInfo": "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",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即安装",
+        "url": "https://apps.apple.com/cn/app/id1561105019",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "tracks": [
+          {
+            "type": 1,
+            "url": "https://bydk-click.66y.com/click/ios?mediatype=2&channel=iosbkuaishou&channel_detail=iosbkuaishou00fsk0440&account_id=12436312&aid=1460196847&cid=22834662223&did=801910705&dname=%E4%B8%83%E6%97%A5%E4%BB%98%E8%B4%B9%E6%AC%A1%E6%95%B0%2Ddmp%E7%BB%BC%E5%90%88%E5%A4%A7%2D%EF%BC%88440%EF%BC%89%2D%5F%E5%A4%8D%E5%88%B6&idfa=__IDFA2__&idfa3=__IDFA3__&os=__OS__&ts=__TS__&ip=113.214.211.3&ua=__UA__&csite=6&model=__MODEL__&ac_creative=0&callback_url=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DalaU1Fj-VP9MRRcQf5sbXNyb1BX7QN20Eq3htcsqkeaMDKGNf6jXFeAM_O4EseF2rsFCmKXL0vFs--mkHT0rN56o-c5Hq1ZcT8aTAjoM1AcP9UJxf48yEVBK44aWauOZywEeD5HP76FsZzG4KX3keiwXtHQoijrzzEyfOOROp8AmVjbzOyrNBN4KlVAhZ3qcsyo3a2DjK5GwTr_hBrRLqg",
+            "urlOperationType": 1
+          }
+        ],
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.kpg"
+            }
+          ],
+          "width": 1080,
+          "height": 1920
+        },
+        "appName": "捕鱼大咖",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1,
+        "extData": "{\"templateInfos\":[\"6_1_116_0\",\"8_1_101_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "http://static.yximgs.com/udata/pkg/marketd6dce2d3184f4214b836d48005a632f9.jpg",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0,
+        "actionBarColor": "e5582d",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4458333740,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 11101001,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "e5582d",
+            "actionBarLoadTime": 5000,
+            "actionBarStyle": 1,
+            "displayInfo": "立即安装",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 7000,
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "captionAdvertisementInfo": {
+            "productIconUrl": "http://static.yximgs.com/udata/pkg/marketd6dce2d3184f4214b836d48005a632f9.jpg",
+            "productName": "捕鱼大咖"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "e5582d",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "displayInfo": "立即安装",
+            "templateId": "dynamic-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"http://static.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null}}",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "rewardEndInfo": {
+              "actionTitle": "再看一个",
+              "enableShowAgainView": true,
+              "extParams": null,
+              "hightLightTitle": "100",
+              "iconUrl": "https://static.yximgs.com/udata/pkg/ad-res/ad_award_dialog_bean.967392e1a1b55d84.png",
+              "rewardValue": 100,
+              "subTitle": "继续观看视频额外得100快乐豆",
+              "title": "恭喜你已获得奖励"
+            }
+          },
+          "inspirePersonalize": {
+            "awardPersonalized": true,
+            "awardValue": "50"
+          },
+          "iosAppId": "1561105019",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "mixBarInfo": {
+            "templateId": "adtk-feed-mixbar"
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 捕鱼大咖",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 棋牌捕鱼广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_dislike_icon.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_dislike_icon.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType=4&bizId=ad_fe_full_loading&photoId=70580892123",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_report_icon.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType=4&bizId=ad_fe_full_loading&photoId=70580892123",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_report_icon.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType=4&bizId=ad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType=4&bizId=ad_fe_full_loading&noBackNavi=true",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_reason_icon.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "negativeStyle": 1
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "e5582d",
+            "actionBarDesc": "捕鱼游戏天花板！VIP免费送！让你不充钱也能玩到爽！",
+            "actionBarTagColor": "d8471a",
+            "actionBarText": "立即安装",
+            "appIconUrl": "http://static.yximgs.com/udata/pkg/marketd6dce2d3184f4214b836d48005a632f9.jpg",
+            "appName": "捕鱼大咖",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "http://static.yximgs.com/udata/pkg/marketd6dce2d3184f4214b836d48005a632f9.jpg",
+            "productName": "捕鱼大咖",
+            "secondIndustryName": "棋牌捕鱼",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "e5582d",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "c64118"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "54",
+          "templateDatas": [
+            {
+              "data": "{\"realShowDelayTime\":6000,\"subTitle\":\"捕鱼游戏天花板！VIP免费送！让你不充钱也能玩到爽！\",\"bannerTitle\":\"近一周1.1万人已下载\",\"actionbarExpandTime\":9000,\"displayInfo\":{\"actionBar\":\"立即安装\",\"actionBarBgColor\":\"CCBE3D\"},\"iconUrl\":\"http://static.yximgs.com/udata/pkg/marketd6dce2d3184f4214b836d48005a632f9.jpg\",\"title\":\"捕鱼大咖\",\"cardStyle\":2,\"actionBarLoadTime\":4000,\"showWeakStyle\":true,\"weakStyleInfo\":{\"animationStyle\":2,\"weakStyleDelayTime\":0,\"title\":\"近一周1.1万人已下载\"}}",
+              "displayLocation": 0,
+              "mixBarType": 1,
+              "resourceType": 1,
+              "styleType": 6,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-feed-mixbar",
+              "templateShowTime": 0
+            },
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"捕鱼游戏天花板！VIP免费送！让你不充钱也能玩到爽！\",\"iconUrl\":\"http://static.yximgs.com/udata/pkg/marketd6dce2d3184f4214b836d48005a632f9.jpg\",\"title\":\"捕鱼大咖\",\"actionBar\":\"立即安装\",\"actionBarBgColor\":\"CCBE3D\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "dynamic-comment-actionbar",
+              "templateShowTime": 0
+            }
+          ],
+          "webviewType": 0
+        },
+        "adDescription": "捕鱼游戏天花板！VIP免费送！让你不充钱也能玩到爽！",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-feed-mixbar",
+              "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-feed-mixbar.116.js",
+              "templateVersion": "1.1.6",
+              "templateVersionCode": 116,
+              "templateMd5": "7a52275999790fe46168096d2dde1fe0"
+            },
+            {
+              "templateId": "dynamic-comment-actionbar",
+              "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-comment-actionbar.101.js",
+              "templateVersion": "1.0.1",
+              "templateVersionCode": 101,
+              "templateMd5": "6b4b6c7330bbd9ecfba4c1b1da01f044"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false
+      },
+      "shareGuide": {
+        "playTimes": 1,
+        "photoShareGuide": false,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "forward_stats_params": {
+        "fid": "2857114875",
+        "et": "1_u/2001305220746288962_hd0"
+      },
+      "share_info": "userId=3xdxw6uv88qy56k&photoId=3xryft6n9zdgx79",
+      "hated": 0,
+      "liked": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "type": 1,
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.kpg",
+      "main_mv_urls": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2022/03/27/13/BMjAyMjAzMjcxMzE1MDVfMjcxMTUzNjcyNV83MDU4MDg5MjEyM18wXzM=_b_B810dd2e4c8041494d6fc4552adbc517e.mp4?tag=1-1651537280-unknown-0-iraarh8cng-bc5c7cf738e94363&clientCacheKey=3xryft6n9zdgx79_b.mp4&tt=b&di=27909bc0&bp=13291"
+        }
+      ],
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.kpg"
+        }
+      ],
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 50,
+        "video": 39660
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_d9d1c10bde0348208e811130b41665c7.kpg"
+        }
+      ],
+      "main_mv_url": "https://txmov2.a.kwimgs.com/upic/2022/03/27/13/BMjAyMjAzMjcxMzE1MDVfMjcxMTUzNjcyNV83MDU4MDg5MjEyM18wXzM=_b_B810dd2e4c8041494d6fc4552adbc517e.mp4?tag=1-1651537280-unknown-0-iraarh8cng-bc5c7cf738e94363&clientCacheKey=3xryft6n9zdgx79_b.mp4&tt=b&di=27909bc0&bp=13291",
+      "override_cover_size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "exp_tag": "1_u/2001305220746288962_hd0",
+      "serverExpTag": "feed_photo|5190398642681554256|2711536725|1_u/2001305220746288962_hd0",
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2711536725,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDEzMDUyMjA3NDYyODg5NjJ8cGhvdG86NTE5MDM5ODY0MjY4MTU1NDI1Nnx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+},{
+  "llsid": 2001306178286549500,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 11101001,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [
+            {
+              "type": 1,
+              "url": [
+                "https://newapi.39center.com/index/index/adid/150010?idfa=__IDFA2__&ip=113.214.211.3&ua=__UA__&model=__MODEL__&callback=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DalaU1Fj-VP9MRRcQf5sbXNyb1BX7QN20Eq3htcsqkeazVkZnyO7LKa_phl2zBeOUoJfKiHiWHxGxvZTsBETaeFBD8KfL-as4SomV2ElbiSWBj-cmQE9gWMwkdrTqlGpz9ASCkAYQPOW9eKD9x3A7U-FFbLXPMiIVJJfFZuTEI97jlUuw5wiUDbcu6SI5Pr4c2RMBfDRBGMr52PS3KVFdcw"
+              ]
+            }
+          ],
+          "adConversionInfo": {
+            "h5Url": "",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://itunes.apple.com/cn/app/id1560267663",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22213109208,
+            "accountId": 13221248,
+            "adSourceType": 1,
+            "adDescription": "玩家玩疯了！1:1高度还原超高爆率、一秒5刀，装备靠打的复古热血",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 56,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/6796a3be4ec042a4ae5632218922f538.jpg",
+            "appName": "复古热血",
+            "appPackageName": "",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 764759047,
+            "unitId": 1389599155,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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",
+            "campaignName": "最大转化_提升应用安装_20220406_11:41",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "复古热血",
+            "enableCloseAd": true,
+            "adActionBarColor": "d88000",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://txmov2.a.kwimgs.com/upic/2022/03/31/18/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_b_B4b6d1c39fbb0eb8cf92d343f92b296a3.mp4?tag=1-1651538500-unknown-0-qphe6ym9ba-2daa8c89413534e1&clientCacheKey=3xx2rukrqeg3t2e_b.mp4&tt=b&di=71d6d303&bp=13292",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5198561417434582000,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2684525437,
+            "userName": "传奇嫩妹",
+            "accountId": 13221248,
+            "userGender": "U",
+            "portraitUrl": "https://p2.a.yximgs.com/uhead/AB/2021/12/30/09/BMjAyMTEyMzAwOTUwNTBfMjY4NDUyNTQzN18zX2hkNDg2XzE2Mw==_s.jpg"
+          },
+          "liveStartTime": 0,
+          "reservationId": ""
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "27a05a5c744343a4",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 55080,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://v4.kwaicdn.com/ksc1/MafVmHfOUf5hGN-DeJ_tD4fietvqPWeGwsin0KxFkW8FzSdQHwMuczHt-1B5LKqLrbXzdc-jVdbykmLb7qpO46JwLIrqwa_TJOn-9j8PdnAmdTXoo_6YW5DtVQRVLdxCnSKCKtyG0GkNMnoU9P2hp7QggvliIyjTWEwKwb598rA1H5U8gecjbX_CIRXkmRZt.mp4?pkey=AAV2CxHkBg_EYCe-ttMEdH9yBR-4XoxrglELeRg-ATtQNW-fVJMNC1AW00MpXpIEql15gzPNcE310g-YlJGdFjpE4E6fNupb0QaEEdvjzy8lqHILRJCTc5CfFLmj2Ruro2E&tag=1-1651538501-unknown-0-we31w21oj5-0fbce200c856cb77&type=hot&clientCacheKey=3xx2rukrqeg3t2e_swft.mp4&di=71d6d303&bp=10002&tt=swft&ss=vp",
+                "backupUrl": [
+                  "http://v1.kwaicdn.com/ksc1/MafVmHfOUf5hGN-DeJ_tD4fietvqPWeGwsin0KxFkW8FzSdQHwMuczHt-1B5LKqLrbXzdc-jVdbykmLb7qpO46JwLIrqwa_TJOn-9j8PdnAmdTXoo_6YW5DtVQRVLdxCnSKCKtyG0GkNMnoU9P2hp7QggvliIyjTWEwKwb598rA1H5U8gecjbX_CIRXkmRZt.mp4?pkey=AAUPcsvDLoW3GmmSgLRtDE3os0_hHgFON4dtozvr0EOoyEe0uyXDc9I0Xx6nKJqjaitIYlAOsmbVu-wyD1m7OFqzRebNezrf4v3AKJ9rd5jt_wasEpyXtLmHvHuBSy8PYR8&tag=1-1651538501-unknown-1-n4tvdme14p-0caaac0e6a59bf32&type=hot&clientCacheKey=3xx2rukrqeg3t2e_swft.mp4&di=71d6d303&bp=10002&tt=swft&ss=vp"
+                ],
+                "maxBitrate": 2300,
+                "avgBitrate": 1063,
+                "width": 720,
+                "height": 1280,
+                "frameRate": 25,
+                "quality": 1.6,
+                "kvqScore": {
+                  "FR": 3.592893251771849,
+                  "NR": 3.3545496463775635
+                },
+                "qualityType": "720p",
+                "qualityLabel": "高清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "27a05a5c744343a4/swft",
+                "hdrType": 0,
+                "fileSize": 7323864,
+                "bitratePattern": [
+                  1959,
+                  1036,
+                  2080,
+                  147,
+                  428
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {},
+        "videoFeature": {
+          "blurProbability": 0.1743861585855484,
+          "blockyProbability": 0.44710132479667664,
+          "avgEntropy": 26.370999472481863,
+          "mosScore": 0.6335354447364807
+        }
+      },
+      "comments": [],
+      "displayTime": null,
+      "location": {},
+      "timestamp": 1651538501002,
+      "time": "2022-05-03 08:41:41",
+      "like_count": 0,
+      "forward_count": 0,
+      "share_count": 9,
+      "unlike_count": 0,
+      "view_count": 3411575,
+      "photo_status": 0,
+      "caption": "玩家玩疯了！1:1高度还原超高爆率、一秒5刀，装备靠打的复古热血",
+      "photo_id": 5198561417434582000,
+      "isShareCountExp": false,
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "us_c": 0,
+      "comment_count": 0,
+      "slideCommentEntryDisabled": false,
+      "shareGuide": {
+        "photoShareGuide": false,
+        "playTimes": 1,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "share_info": "userId=3xr8u4vy6s7txp6&photoId=3xx2rukrqeg3t2e",
+      "forward_stats_params": {
+        "fid": "2857114875",
+        "et": "1_u/2001306178286549474_hd0"
+      },
+      "liked": 0,
+      "hated": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "following": 0,
+      "verified": false,
+      "user_sex": "U",
+      "headurls": [
+        {
+          "cdn": "p4.a.yximgs.com",
+          "url": "http://p4.a.yximgs.com/uhead/AB/2021/12/30/09/BMjAyMTEyMzAwOTUwNTBfMjY4NDUyNTQzN18zX2hkNDg2XzE2Mw==_s.jpg"
+        },
+        {
+          "cdn": "p2.a.yximgs.com",
+          "url": "http://p2.a.yximgs.com/uhead/AB/2021/12/30/09/BMjAyMTEyMzAwOTUwNTBfMjY4NDUyNTQzN18zX2hkNDg2XzE2Mw==_s.jpg"
+        }
+      ],
+      "user_name": "传奇嫩妹",
+      "ad": {
+        "creativeId": 22213109208,
+        "chargeInfo": "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",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "https://apps.apple.com/cn/app/id1560267663",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "tracks": [
+          {
+            "type": 1,
+            "url": "https://newapi.39center.com/index/index/adid/150010?idfa=__IDFA2__&ip=113.214.211.3&ua=__UA__&model=__MODEL__&callback=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DalaU1Fj-VP9MRRcQf5sbXNyb1BX7QN20Eq3htcsqkeazVkZnyO7LKa_phl2zBeOUoJfKiHiWHxGxvZTsBETaeFBD8KfL-as4SomV2ElbiSU5YC5SsjJjvIN1HsWckrpTAU9NY7NuCfUEAP3LIoZxGt3HyMgaESWzyITjURPuruppy9p_2qYYXiu0fYe7WYQa_hGcHYqKYBV1rxQnrl11lg",
+            "urlOperationType": 1
+          }
+        ],
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.kpg"
+            }
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "appName": "复古热血",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1,
+        "extData": "{\"templateInfos\":[\"8_1_101_0\",\"6_1_116_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/6796a3be4ec042a4ae5632218922f538.jpg",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0,
+        "actionBarColor": "d88000",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4341701030,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 11101001,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "d88000",
+            "actionBarLoadTime": 5000,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 7000,
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/6796a3be4ec042a4ae5632218922f538.jpg",
+            "productName": "复古热血"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "d88000",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "displayInfo": "立即下载",
+            "templateId": "dynamic-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"https://p1.a.yximgs.com/upic/2022/03/31/18/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.jpg?tag=1-1649216700-unknown-0-jqkflhezwl-5841c3aababc6b3f&clientCacheKey=3xx2rukrqeg3t2e.jpg&di=7416355f&bp=10000\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":3,\"exposeTagInfoList\":[{\"text\":\"热血经典\",\"url\":\"\",\"canClick\":true},{\"text\":\"新服放送\",\"url\":\"\",\"canClick\":true}]}}",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "rewardEndInfo": {
+              "actionTitle": "再看一个",
+              "enableShowAgainView": true,
+              "extParams": null,
+              "hightLightTitle": "100",
+              "iconUrl": "https://static.yximgs.com/udata/pkg/ad-res/ad_award_dialog_bean.967392e1a1b55d84.png",
+              "rewardValue": 100,
+              "subTitle": "继续观看视频额外得100快乐豆",
+              "title": "恭喜你已获得奖励"
+            }
+          },
+          "inspirePersonalize": {
+            "awardPersonalized": true,
+            "awardValue": "50"
+          },
+          "iosAppId": "1560267663",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "mixBarInfo": {
+            "templateId": "adtk-feed-mixbar"
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 复古热血",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 角色扮演广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_dislike_icon.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_dislike_icon.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType=4&bizId=ad_fe_full_loading&photoId=70887868095",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_report_icon.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType=4&bizId=ad_fe_full_loading&photoId=70887868095",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_report_icon.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType=4&bizId=ad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType=4&bizId=ad_fe_full_loading&noBackNavi=true",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_reason_icon.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "negativeStyle": 1
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "d88000",
+            "actionBarDesc": "玩家玩疯了！1:1高度还原超高爆率、一秒5刀，装备靠打的复古热血",
+            "actionBarTagColor": "b96d00",
+            "actionBarText": "立即下载",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/6796a3be4ec042a4ae5632218922f538.jpg",
+            "appName": "复古热血",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/6796a3be4ec042a4ae5632218922f538.jpg",
+            "productName": "复古热血",
+            "secondIndustryName": "角色扮演",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "d88000",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "a46100"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "54",
+          "templateDatas": [
+            {
+              "data": "{\"realShowDelayTime\":6000,\"subTitle\":\"玩家玩疯了！1:1高度还原超高爆率、一秒5刀，装备靠打的复古热血\",\"bannerTitle\":\"热血经典 新服放送\",\"actionbarExpandTime\":9000,\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"BBCC3D\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/6796a3be4ec042a4ae5632218922f538.jpg\",\"title\":\"复古热血\",\"cardStyle\":2,\"actionBarLoadTime\":4000,\"showWeakStyle\":true,\"weakStyleInfo\":{\"animationStyle\":2,\"weakStyleDelayTime\":0,\"title\":\"热血经典 新服放送\"}}",
+              "displayLocation": 0,
+              "mixBarType": 1,
+              "resourceType": 1,
+              "styleType": 6,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-feed-mixbar",
+              "templateShowTime": 0
+            },
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"玩家玩疯了！1:1高度还原超高爆率、一秒5刀，装备靠打的复古热血\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/6796a3be4ec042a4ae5632218922f538.jpg\",\"title\":\"复古热血\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"BBCC3D\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "dynamic-comment-actionbar",
+              "templateShowTime": 0
+            }
+          ],
+          "webviewType": 0
+        },
+        "adDescription": "玩家玩疯了！1:1高度还原超高爆率、一秒5刀，装备靠打的复古热血",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-feed-mixbar",
+              "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-feed-mixbar.116.js",
+              "templateVersion": "1.1.6",
+              "templateVersionCode": 116,
+              "templateMd5": "7a52275999790fe46168096d2dde1fe0"
+            },
+            {
+              "templateId": "dynamic-comment-actionbar",
+              "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-comment-actionbar.101.js",
+              "templateVersion": "1.0.1",
+              "templateVersionCode": 101,
+              "templateMd5": "6b4b6c7330bbd9ecfba4c1b1da01f044"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false
+      },
+      "type": 1,
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.kpg",
+      "main_mv_urls": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2022/03/31/18/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_b_B4b6d1c39fbb0eb8cf92d343f92b296a3.mp4?tag=1-1651538500-unknown-0-qphe6ym9ba-2daa8c89413534e1&clientCacheKey=3xx2rukrqeg3t2e_b.mp4&tt=b&di=71d6d303&bp=13292"
+        }
+      ],
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_B34e44d96047278db57b309e3d9785403.kpg"
+        }
+      ],
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 25,
+        "video": 55080
+      },
+      "main_mv_url": "https://txmov2.a.kwimgs.com/upic/2022/03/31/18/BMjAyMjAzMzExODA2MzZfMjY4NDUyNTQzN183MDg4Nzg2ODA5NV8wXzM=_b_B4b6d1c39fbb0eb8cf92d343f92b296a3.mp4?tag=1-1651538500-unknown-0-qphe6ym9ba-2daa8c89413534e1&clientCacheKey=3xx2rukrqeg3t2e_b.mp4&tt=b&di=71d6d303&bp=13292",
+      "serverExpTag": "feed_photo|5198561417434582226|2684525437|1_u/2001306178286549474_hd0",
+      "exp_tag": "1_u/2001306178286549474_hd0",
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "override_cover_size": {
+        "width": 720,
+        "height": 1280
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2684525437,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDEzMDYxNzgyODY1NDk0NzR8cGhvdG86NTE5ODU2MTQxNzQzNDU4MjIyNnx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+},{
+  "llsid": 2001306565888903200,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 11101001,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [
+            {
+              "type": 1,
+              "url": [
+                "https://atj-kuaishou.37.com.cn/monitor/click/46_1009787_12430_9611396/?idfaMD5=__IDFA2__&mac=__MAC2__&campaignid=806471818&adgroupid=1468433868&creativeid=22858670495&callback=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DalaU1Fj-VP9MRRcQf5sbXNyb1BX7QN20Eq3htcsqkeZqm15Y0KkW7c818jWrD4Q7ApLSyaysLAkmvT8EGx6pO7i4TiOOKsEBJ8eVgRwADdQd_h27ukZm72SA2AJRxRL6lGruaKfPuS5I0L33B-TZsCL7nQmd3ZpHHLiToVxtGDLMd_q9Fe1-4ajKgKKEvl-pUfTu-FUIbBI_rJN2ic8WVw&ip=113.214.211.3&caid=__KAID_CAA__"
+              ]
+            }
+          ],
+          "adConversionInfo": {
+            "h5Url": "",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://itunes.apple.com/cn/app/id1558453472?ppid=ae23b0f2-83da-4021-bc7c-af533242b99b",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22858670495,
+            "accountId": 12375177,
+            "adSourceType": 1,
+            "adDescription": "成龙大哥：斗罗大陆出3D手游了，开局送唐三，昊天神锤太给力了",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 49,
+            "appIconUrl": "http://static.yximgs.com/udata/pkg/marketda55df287ce6426ebdd518c4d331a562.jpg",
+            "appName": "斗罗大陆：魂师对决",
+            "appPackageName": "",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 806471818,
+            "unitId": 1468433868,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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",
+            "campaignName": "20220502-1009787-12430-VwK",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "斗罗大陆:魂师对决",
+            "enableCloseAd": true,
+            "adActionBarColor": "cc287a",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://alimov2.a.kwimgs.com/upic/2022/01/04/15/BMjAyMjAxMDQxNTA5MjJfMjY4NTUyMzc4NF82NDIwNzU5NzY2M18wXzM=_b_B0513ef72654b228115e8e2a319ed18cf.mp4?tag=1-1651538430-unknown-0-w9h43dilva-958ef856da2618a5&clientCacheKey=3xskdrcdtw6ayrg_b.mp4&tt=b&di=71d6d303&bp=13292",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5211227780161715000,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2685523784,
+            "userName": "热门新游推荐",
+            "accountId": 12375177,
+            "userGender": "U",
+            "portraitUrl": "https://p1.a.yximgs.com/uhead/AB/2021/12/28/16/BMjAyMTEyMjgxNjUwMDJfMjY4NTUyMzc4NF8zX2hkMThfODY0_s.jpg"
+          },
+          "liveStartTime": 0,
+          "reservationId": ""
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "c9413d7a0a1b3dff",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 48520,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://v10.kwaicdn.com/ksc1/XCkLCyFtPVICNzoP3cnm5hhE35GgHBOpfEt2d3ZOVn7bImrUw0JKvdEH9gxgcFxCg1thpMSAwolAqBo9xd5FAMwGKZdjIwOxD-m_S7fd6DXQZi2YmcJ7XBbu0ysjnJY9zkDNAYjqQgvruQPXCOPzzrmq6UB80STp90fbVIqWKP9SBeAfynU3bMgFt0PRlFww.mp4?pkey=AAWr76tN8JpTX7b11VhzKwwjE1TaWyE-Ri_dKPraQcnytb8_qf27z6y2ciekfAQhgRZqEpLfdb9c1mk-W4CyeolM0juWgt976FjUGtXvLgngFtYfuTLUJ2KUXM4fqrvRSHk&tag=1-1651538430-unknown-0-osegh7vfnn-ae95fa4912bf3105&clientCacheKey=3xskdrcdtw6ayrg_swft.mp4&di=71d6d303&bp=10002&tt=swft&ss=vp",
+                "backupUrl": [
+                  "http://v1.kwaicdn.com/ksc1/XCkLCyFtPVICNzoP3cnm5hhE35GgHBOpfEt2d3ZOVn7bImrUw0JKvdEH9gxgcFxCg1thpMSAwolAqBo9xd5FAMwGKZdjIwOxD-m_S7fd6DXQZi2YmcJ7XBbu0ysjnJY9zkDNAYjqQgvruQPXCOPzzrmq6UB80STp90fbVIqWKP9SBeAfynU3bMgFt0PRlFww.mp4?pkey=AAUPJYIhqPUcPDcdc1q1xkWQXO3hqN3SEARH4w4NUHAmLgWcbl8KWR_NGYyZJnpbDcvXuu5yaFu-j2lEhB5PWFQ_IjDeNPRZdv0QH4R27ahqabW1AxEQH8H9ipgjCEb_AFo&tag=1-1651538430-unknown-1-1gidkbqmdy-7b6b41b48d1825aa&clientCacheKey=3xskdrcdtw6ayrg_swft.mp4&di=71d6d303&bp=10002&tt=swft&ss=vp"
+                ],
+                "maxBitrate": 2300,
+                "avgBitrate": 1042,
+                "width": 720,
+                "height": 1280,
+                "frameRate": 25,
+                "quality": 1.6,
+                "qualityType": "720p",
+                "qualityLabel": "高清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "c9413d7a0a1b3dff/swft",
+                "hdrType": 0,
+                "fileSize": 6321924,
+                "bitratePattern": [
+                  1408,
+                  744,
+                  1825,
+                  225,
+                  350
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {},
+        "videoFeature": {
+          "blurProbability": 0.06838889420032501,
+          "blockyProbability": 0.08952977508306503,
+          "avgEntropy": 29.335181554158527,
+          "mosScore": 0.7568740248680115
+        }
+      },
+      "comments": [],
+      "displayTime": null,
+      "location": {},
+      "timestamp": 1651538430892,
+      "time": "2022-05-03 08:40:30",
+      "caption": "成龙大哥：斗罗大陆出3D手游了，开局送唐三，昊天神锤太给力了",
+      "forward_count": 0,
+      "share_count": 4,
+      "unlike_count": 0,
+      "isShareCountExp": false,
+      "photo_id": 5211227780161715000,
+      "view_count": 498752,
+      "photo_status": 0,
+      "like_count": 0,
+      "shareGuide": {
+        "playTimes": 1,
+        "photoShareGuide": false,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "share_info": "userId=3xjrqrsvtf5sbh4&photoId=3xskdrcdtw6ayrg",
+      "forward_stats_params": {
+        "fid": "2857114875",
+        "et": "1_u/2001306565888903074_hd0"
+      },
+      "liked": 0,
+      "hated": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "us_c": 0,
+      "slideCommentEntryDisabled": false,
+      "comment_count": 0,
+      "following": 0,
+      "verified": false,
+      "user_sex": "U",
+      "headurls": [
+        {
+          "cdn": "tx6.a.kwimgs.com",
+          "url": "http://tx6.a.kwimgs.com/uhead/AB/2021/12/28/16/BMjAyMTEyMjgxNjUwMDJfMjY4NTUyMzc4NF8zX2hkMThfODY0_s.jpg"
+        },
+        {
+          "cdn": "p2.a.yximgs.com",
+          "url": "http://p2.a.yximgs.com/uhead/AB/2021/12/28/16/BMjAyMTEyMjgxNjUwMDJfMjY4NTUyMzc4NF8zX2hkMThfODY0_s.jpg"
+        }
+      ],
+      "user_name": "热门新游推荐",
+      "ad": {
+        "creativeId": 22858670495,
+        "chargeInfo": "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",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "https://apps.apple.com/cn/app/id1558453472?ppid=ae23b0f2-83da-4021-bc7c-af533242b99b",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "tracks": [
+          {
+            "type": 1,
+            "url": "https://atj-kuaishou.37.com.cn/monitor/click/46_1009787_12430_9611396/?idfaMD5=__IDFA2__&mac=__MAC2__&campaignid=806471818&adgroupid=1468433868&creativeid=22858670495&callback=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DalaU1Fj-VP9MRRcQf5sbXNyb1BX7QN20Eq3htcsqkeZqm15Y0KkW7c818jWrD4Q7ApLSyaysLAkmvT8EGx6pO7i4TiOOKsEBJ8eVgRwADdTmIwRdtueZb_bQqQYMnqzGfUzxeJbOXhpKFQy2bvZndzFHRb0kqNMjZpnJZYf666CoB8HLOxbmIplRaegbZJ1KyC9IMkxT4GP_3AYS85aS5A&ip=113.214.211.3&caid=__KAID_CAA__",
+            "urlOperationType": 1
+          }
+        ],
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.kpg"
+            }
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "appName": "斗罗大陆：魂师对决",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1,
+        "extData": "{\"templateInfos\":[\"8_1_101_0\",\"3_11_126_0\",\"2_11_109_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "http://static.yximgs.com/udata/pkg/marketda55df287ce6426ebdd518c4d331a562.jpg",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0,
+        "actionBarColor": "cc287a",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4578896431,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 11101001,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "cc287a",
+            "actionBarLoadTime": 4000,
+            "actionBarLocation": 0,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 6000,
+            "templateId": "dynamic-action-bar-ad-v11",
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCardTemplateInfo": {
+            "animationStyle": 2,
+            "templateId": "adtk-card-ad-v3",
+            "useTemplate": true
+          },
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "captionAdvertisementInfo": {
+            "productIconUrl": "http://static.yximgs.com/udata/pkg/marketda55df287ce6426ebdd518c4d331a562.jpg",
+            "productName": "斗罗大陆：魂师对决"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "cc287a",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "displayInfo": "立即下载",
+            "templateId": "dynamic-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "extraDisplayInfo": {},
+          "h5Data": "{\"coverUrlFrontend\":\"https://static.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null}}",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "rewardEndInfo": {
+              "actionTitle": "再看一个",
+              "enableShowAgainView": true,
+              "extParams": null,
+              "hightLightTitle": "100",
+              "iconUrl": "https://static.yximgs.com/udata/pkg/ad-res/ad_award_dialog_bean.967392e1a1b55d84.png",
+              "rewardValue": 100,
+              "subTitle": "继续观看视频额外得100快乐豆",
+              "title": "恭喜你已获得奖励"
+            }
+          },
+          "inspirePersonalize": {
+            "awardPersonalized": true,
+            "awardValue": "50"
+          },
+          "iosAppId": "1558453472",
+          "iosPageId": "ae23b0f2-83da-4021-bc7c-af533242b99b",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 斗罗大陆：魂师对决",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 角色扮演广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_dislike_icon.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_dislike_icon.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType=4&bizId=ad_fe_full_loading&photoId=64207597663",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_report_icon.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType=4&bizId=ad_fe_full_loading&photoId=64207597663",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_report_icon.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType=4&bizId=ad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType=4&bizId=ad_fe_full_loading&noBackNavi=true",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/menu_layer_reason_icon.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "negativeStyle": 1
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "cc287a",
+            "actionBarDesc": "成龙大哥：斗罗大陆出3D手游了，开局送唐三，昊天神锤太给力了",
+            "actionBarTagColor": "b2226a",
+            "actionBarText": "立即下载",
+            "appIconUrl": "http://static.yximgs.com/udata/pkg/marketda55df287ce6426ebdd518c4d331a562.jpg",
+            "appName": "斗罗大陆：魂师对决",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "http://static.yximgs.com/udata/pkg/marketda55df287ce6426ebdd518c4d331a562.jpg",
+            "productName": "斗罗大陆:魂师对决",
+            "secondIndustryName": "角色扮演",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "cc287a",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "a11f60"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "54",
+          "templateDatas": [
+            {
+              "actionBarType": 11,
+              "data": "{\"buttonHeight\":36,\"appName\":\"斗罗大陆：魂师对决\",\"description\":\"成龙大哥：斗罗大陆出3D手游了，开局送唐三，昊天神锤太给力了\",\"actionBarBgColor\":\"5A45E6\",\"actionBar\":\"立即下载\",\"hideActionBarLoad\":false,\"downloadActionBarType\":1}",
+              "displayLocation": 1,
+              "resourceType": 11,
+              "styleType": 3,
+              "templateDelayTime": 9000,
+              "templateId": "dynamic-action-bar-ad-v11",
+              "templateShowTime": 0
+            },
+            {
+              "cardType": 11,
+              "data": "{\"subTitle\":\"成龙大哥：斗罗大陆出3D手游了，开局送唐三，昊天神锤太给力了\",\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"5A45E6\"},\"iconUrl\":\"http://static.yximgs.com/udata/pkg/marketda55df287ce6426ebdd518c4d331a562.jpg\",\"title\":\"斗罗大陆：魂师对决\"}",
+              "displayLocation": 0,
+              "resourceType": 11,
+              "styleType": 2,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-card-ad-v3",
+              "templateShowTime": 0
+            },
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"成龙大哥：斗罗大陆出3D手游了，开局送唐三，昊天神锤太给力了\",\"iconUrl\":\"http://static.yximgs.com/udata/pkg/marketda55df287ce6426ebdd518c4d331a562.jpg\",\"title\":\"斗罗大陆：魂师对决\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"5A45E6\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "dynamic-comment-actionbar",
+              "templateShowTime": 0
+            }
+          ],
+          "webviewType": 0
+        },
+        "adDescription": "成龙大哥：斗罗大陆出3D手游了，开局送唐三，昊天神锤太给力了",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "dynamic-action-bar-ad-v11",
+              "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_dynamic-action-bar-ad-v11.126.js",
+              "templateVersion": "1.2.6",
+              "templateVersionCode": 126,
+              "templateMd5": "0f58cca5960d48acb9f88b15ef043d76"
+            },
+            {
+              "templateId": "adtk-card-ad-v3",
+              "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-ad-v3.109.js",
+              "templateVersion": "1.0.9",
+              "templateVersionCode": 109,
+              "templateMd5": "27df2b8e7790fbbc835767aaa16fc191"
+            },
+            {
+              "templateId": "dynamic-comment-actionbar",
+              "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-comment-actionbar.101.js",
+              "templateVersion": "1.0.1",
+              "templateVersionCode": 101,
+              "templateMd5": "6b4b6c7330bbd9ecfba4c1b1da01f044"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false
+      },
+      "type": 1,
+      "main_mv_url": "https://alimov2.a.kwimgs.com/upic/2022/01/04/15/BMjAyMjAxMDQxNTA5MjJfMjY4NTUyMzc4NF82NDIwNzU5NzY2M18wXzM=_b_B0513ef72654b228115e8e2a319ed18cf.mp4?tag=1-1651538430-unknown-0-w9h43dilva-958ef856da2618a5&clientCacheKey=3xskdrcdtw6ayrg_b.mp4&tt=b&di=71d6d303&bp=13292",
+      "main_mv_urls": [
+        {
+          "url": "https://alimov2.a.kwimgs.com/upic/2022/01/04/15/BMjAyMjAxMDQxNTA5MjJfMjY4NTUyMzc4NF82NDIwNzU5NzY2M18wXzM=_b_B0513ef72654b228115e8e2a319ed18cf.mp4?tag=1-1651538430-unknown-0-w9h43dilva-958ef856da2618a5&clientCacheKey=3xskdrcdtw6ayrg_b.mp4&tt=b&di=71d6d303&bp=13292"
+        }
+      ],
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.kpg",
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 25,
+        "video": 48520
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/market4a75c2c189af4168a6a5190237b0f888.kpg"
+        }
+      ],
+      "exp_tag": "1_u/2001306565888903074_hd0",
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "override_cover_size": {
+        "width": 720,
+        "height": 1280
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2685523784,
+      "serverExpTag": "feed_photo|5211227780161714938|2685523784|1_u/2001306565888903074_hd0",
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDEzMDY1NjU4ODg5MDMwNzR8cGhvdG86NTIxMTIyNzc4MDE2MTcxNDkzOHx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+}
